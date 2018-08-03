@@ -1,0 +1,67 @@
+.navbar-default {
+  background-color: #000000;  
+  border-bottom: 3px solid  #9932CC;
+ 
+}
+.navbar-brand {
+  height: 40px;
+  padding: 15px;
+  
+}
+
+.navbar-default .navbar-brand{
+
+color: #fff;
+
+}
+
+.navbar-default .navbar-nav > li > a {
+color: #fff;
+}
+
+.navbar{
+	min-height: 40px;
+}
+.glyphicon{
+	top: 4px;
+}
+
+.leftbg{
+		background-color: #f2f2f2; 
+		
+}
+
+.profileImage{
+	padding:10px;
+	 text-align: center;
+}
+
+.warning{
+	color:#F00;
+	padding-right:10px;
+	
+}
+
+.padbottom{
+	padding-bottom:10px;
+}
+
+.underline{
+	text-decoration: underline;
+	color:#F00;
+}
+
+.h1{
+color:#9932CC;
+}
+
+.font11{
+	font-size:11px;
+}
+.bold{
+	font-weight:bold;
+}
+
+.bluetext{
+color:#337ab7;
+}
